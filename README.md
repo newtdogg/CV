@@ -10,7 +10,7 @@ All round computer/programming enthusiast, I found my niche as a Frontend Develo
 |:-----:|-------------|--------------|---------|
 |[React Poker](https://github.com/newtdogg/react-poker)| A react poker hand analyser and comparator | React, Styled Components | Jest, Enzyme |
 |[Poker bot](https://github.com/newtdogg/poker-bot)| Created a bot to play heads up hold em poker on against a player on a GUI| Java, Swing| JUnit |
-|[2D Shooter](https://github.com/newtdogg/2Dshooter)| A top down 2D arcade style shooter made in Unity, one of my current WIP side projects| C# Unity | |
+|[2D Shooter](https://github.com/newtdogg/2Dshooter)| A top down 2D arcade style shooter made in Unity, one of my current WIP side projects| C#, Unity | |
 
 ## Experience
 
