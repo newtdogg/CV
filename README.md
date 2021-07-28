@@ -14,19 +14,6 @@ All round computer/programming enthusiast, I found my niche as a Frontend Develo
 
 ## Experience
 
-#### Software engineer and QA automation engineer
-**Oneflow Systems** (03/2018 - 07/2019)
-
-OneFlow provided a variety of software to the print production industry, specifically print-on-demand goods, and eventually was bought by HP, which was the reason for my departure. My role started with a QA focus due a poor testing infrastructure but I quickly moved onto more fullstack focused work, primarily involving internal tools and smaller unique products for specific customers.
-
-- Personally implemented the entire foundation of all end-to-end tests for software at the company, from writing them to ensuring they were run through continuous integration on each pull request.
-- Independently developed front-end web applications in Vue.js, using HTML and SCSS for styling, and Vuex for state management.
-- Work on converting legacy APIs to new Typescript APIs, as well as creating greenfield APIs for Vue.js applications.
-- Created multiple automated bots that imitated users of our software for the purposes of live demonstrations to customers.
-- Developed two internal Vue.js applications for the management team which collated data from various sources, one to improve team productivity and another to get insight into issues and bottlenecks in our systems.
-- Was involved in the improvement of the deployment pipeline, transitioning into trunk-based development using feature flags.
-- Other technologies I became familiar with include: CircleCI, AWS (primarily S3 and route53), Sentry, Cypress.
-
 #### Frontend Developer
 **Grabyo** (07/2019 - present)
 
@@ -40,6 +27,19 @@ Grabyo is one of the fastest growing tech companies in the UK, it is well establ
 - Helped develop a mobile friendly React web app to connect a user with a camera or webcam to a live stream, and wrote the UI tests using Cypress.js
 - Spearheaded work to improve the manual testing release process and well as fixing the currently outdated nightwatch browser tests.
 - Primary techonologies used and other technologies I became familiar with include: React, mobx-state-tree, styled-components, AWS Elastic Beanstalk, Backbone.js
+
+#### Software engineer and QA automation engineer
+**Oneflow Systems** (03/2018 - 07/2019)
+
+OneFlow provided a variety of software to the print production industry, specifically print-on-demand goods, and eventually was bought by HP, which was the reason for my departure. My role started with a QA focus due a poor testing infrastructure but I quickly moved onto more fullstack focused work, primarily involving internal tools and smaller unique products for specific customers.
+
+- Personally implemented the entire foundation of all end-to-end tests for software at the company, from writing them to ensuring they were run through continuous integration on each pull request.
+- Independently developed front-end web applications in Vue.js, using HTML and SCSS for styling, and Vuex for state management.
+- Work on converting legacy APIs to new Typescript APIs, as well as creating greenfield APIs for Vue.js applications.
+- Created multiple automated bots that imitated users of our software for the purposes of live demonstrations to customers.
+- Developed two internal Vue.js applications for the management team which collated data from various sources, one to improve team productivity and another to get insight into issues and bottlenecks in our systems.
+- Was involved in the improvement of the deployment pipeline, transitioning into trunk-based development using feature flags.
+- Other technologies I became familiar with include: CircleCI, AWS (primarily S3 and route53), Sentry, Cypress.
 
 ## Other Experience
 
