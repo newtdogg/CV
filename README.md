@@ -2,7 +2,7 @@
 
 All round computer/programming enthusiast, I found my niche as a Frontend Developer but I still like to experiement with all sorts of different technologies in my free time. I strive to build lean, scalable and maintainable web applications with a focus on clean, readible code, well structured CSS, and test-driver development. All my first hand developer experience lies within the world of startups, starting in QA and automated testing, then moving to a full stack role which is where I found my love for Frontend development. Currently working for [Grabyo](https://about.grabyo.com/us/), one of the fastest growing startups in the UK, but I'm always on the lookout for new and exciting oppurtunities!
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [Website](http://www.tednewton.com)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) |
 
 ## Projects
 
