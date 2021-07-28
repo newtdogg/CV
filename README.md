@@ -8,7 +8,9 @@ All round computer/programming enthusiast, I found my niche as a Frontend Develo
 
 | Title | Description | Technologies | Testing |
 |:-----:|-------------|--------------|---------|
+|[React Poker](https://github.com/newtdogg/react-poker)| A react poker hand analyser and comparator | React, Styled Components | Jest, Enzyme |
 |[Poker bot](https://github.com/newtdogg/poker-bot)| Created a bot to play heads up hold em poker on against a player on a GUI| Java, Swing| JUnit |
+|[2D Shooter](https://github.com/newtdogg/2Dshooter)| A top down 2D arcade style shooter made in Unity, one of my current WIP side projects| C# Unity | |
 
 ## Experience
 
@@ -84,4 +86,4 @@ Having started with an interest in web development, this course helped me explor
 
 ## Hobbies and Interests
 
-Programming and Game Dev, Football, Freestlye Skiing, Video Games, Graphic Design, Video Editing, Gardening
+Programming and Game Dev, Football, Freestlye Skiing, Skateboarding, Guitar, Saxophone, Video Editing, Gardening
